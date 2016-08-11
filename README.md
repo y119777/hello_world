@@ -7,3 +7,5 @@
 - github
 - markdown, matdownpad
 - atom, 
+![](https://raw.githubusercontent.com/y119777/pelican_blog/master/images/test1.jpeg)
+![](https://raw.githubusercontent.com/y119777/pelican_blog/master/images/test2.jpg)
